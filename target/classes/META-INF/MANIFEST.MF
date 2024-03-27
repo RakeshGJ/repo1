@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 20
+Class-Path: lib/cucumber-java-7.15.0.jar lib/cucumber-core-7.15.0.jar li
+ b/cucumber-gherkin-7.15.0.jar lib/cucumber-gherkin-messages-7.15.0.jar 
+ lib/gherkin-26.2.0.jar lib/messages-22.0.0.jar lib/tag-expressions-6.0.
+ 0.jar lib/cucumber-expressions-17.0.1.jar lib/datatable-7.15.0.jar lib/
+ cucumber-plugin-7.15.0.jar lib/docstring-7.15.0.jar lib/html-formatter-
+ 20.4.0.jar lib/junit-xml-formatter-0.2.0.jar lib/ci-environment-10.0.0.
+ jar lib/apiguardian-api-1.1.2.jar lib/junit-4.13.2.jar lib/hamcrest-cor
+ e-1.3.jar lib/cucumber-junit-7.15.0.jar lib/testng-6.14.3.jar lib/jcomm
+ ander-1.72.jar lib/bsh-2.0b6.jar lib/webdrivermanager-5.6.3.jar lib/slf
+ 4j-api-2.0.10.jar lib/gson-2.10.1.jar lib/docker-java-3.3.4.jar lib/doc
+ ker-java-core-3.3.4.jar lib/docker-java-api-3.3.4.jar lib/jackson-annot
+ ations-2.10.3.jar lib/jackson-databind-2.10.3.jar lib/jackson-core-2.10
+ .3.jar lib/bcpkix-jdk18on-1.76.jar lib/bcprov-jdk18on-1.76.jar lib/bcut
+ il-jdk18on-1.76.jar lib/jcl-over-slf4j-1.7.30.jar lib/docker-java-trans
+ port-httpclient5-3.3.4.jar lib/docker-java-transport-3.3.4.jar lib/jna-
+ 5.13.0.jar lib/dec-0.1.2.jar lib/commons-lang3-3.14.0.jar lib/commons-c
+ ompress-1.25.0.jar lib/httpclient5-5.2.1.jar lib/httpcore5-5.2.jar lib/
+ httpcore5-h2-5.2.jar lib/javafaker-1.0.2.jar lib/snakeyaml-1.23-android
+ .jar lib/generex-1.0.2.jar lib/automaton-1.11-8.jar lib/poi-5.2.5.jar l
+ ib/commons-codec-1.16.0.jar lib/commons-collections4-4.4.jar lib/common
+ s-math3-3.6.1.jar lib/commons-io-2.15.0.jar lib/SparseBitSet-1.3.jar li
+ b/log4j-api-2.21.1.jar lib/extentreports-5.1.1.jar lib/rxjava-3.1.6.jar
+  lib/reactive-streams-1.0.4.jar lib/freemarker-2.3.32.jar lib/lombok-1.
+ 18.26.jar lib/selenium-java-3.141.59.jar lib/selenium-api-3.141.59.jar 
+ lib/selenium-chrome-driver-3.141.59.jar lib/selenium-edge-driver-3.141.
+ 59.jar lib/selenium-firefox-driver-3.141.59.jar lib/selenium-ie-driver-
+ 3.141.59.jar lib/selenium-opera-driver-3.141.59.jar lib/selenium-remote
+ -driver-3.141.59.jar lib/selenium-safari-driver-3.141.59.jar lib/seleni
+ um-support-3.141.59.jar lib/byte-buddy-1.8.15.jar lib/commons-exec-1.3.
+ jar lib/guava-25.0-jre.jar lib/jsr305-1.3.9.jar lib/checker-compat-qual
+ -2.0.0.jar lib/error_prone_annotations-2.1.3.jar lib/j2objc-annotations
+ -1.1.jar lib/animal-sniffer-annotations-1.14.jar lib/okhttp-3.11.0.jar 
+ lib/okio-1.14.0.jar
+Main-Class: com.digisoft.Main
+Created-By: Maven Integration for Eclipse
+
