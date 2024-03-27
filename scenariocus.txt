@@ -1,0 +1,22 @@
+Feature: create multiplecustomer
+  
+  Scenario : Check the loginpage 
+    Given user is on loginpage
+    When user enter "username" and "password"
+    And click  login button
+    Then user is on homepage
+    And click at task
+
+  Scenario Outline: create customer with customername and description
+    Given user is on task page
+    And user click on addnew button
+    And user click on newcustomer
+    When user enter <customername> and <customerdescription>
+    Then click on createcustomer
+    And user get a successs message
+
+    Examples: 
+      | customername | customerdescription |
+      | customer1    | csd1                |
+      | customer2    | csd2                |
+      | customer3    | csd3                |
